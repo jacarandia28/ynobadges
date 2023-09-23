@@ -2163,50 +2163,50 @@
       "condition": "在 Apartments 与 Hiboushi 互动"
     },
     "ripple_passage": {
-      "name": "Ripple Amulet",
+      "name": "波纹护符",
       "description": "Didn't know you got drip like that...",
-      "condition": "Enter Ripple Passage in Static Noise Hell"
+      "condition": "进入 Static Noise Hell 的 Ripple Passage "
     },
     "ghostly_exhibit": {
-      "name": "Photosynthesis",
-      "condition": "Visit the Ghostly Exhibit"
+      "name": "光合作用",
+      "condition": "到访 Ghostly Exhibit"
     },
     "witch_duo": {
-      "name": "Twin-Colored Duo",
-      "description": "Two is better than one!",
-      "condition": "Visit the Witch's House in Love Lodge, the place where the frozen Witch of Charity is, and find the painting in Hatred Palace"
+      "name": "异色双生子",
+      "description": "两个人总比一个人强!",
+      "condition": "到访 Love Lodge 的 Witch's House ，往 frozen Witch 奉献的地方走并找到 Hatred Palace 中的一幅画"
     },
     "sanctuary_2kki": {
-      "name": "Peace and Love",
-      "condition": "Visit the Sanctuary"
+      "name": "爱与和平",
+      "condition": "到访 Sanctuary"
     },
     "lost_mutual": {
-      "name": "Lost Mutual",
-      "description": "...have I seen you before?",
-      "condition": "Visit the room of the Grey Hoodie Boy in Bleak Future"
+      "name": "失去的曾经",
+      "description": "...我见过你吗?",
+      "condition": "进入 Bleak Future 中 Grey Hoodie Boy 的房间"
     },
     "digital_heart_space": {
-      "name": "Frostbit Hexahedron",
-      "condition": "Visit Digital Heart Space"
+      "name": "冰晶六面体",
+      "condition": "到访 Digital Heart Space"
     },
     "angel_starfield_garden": {
-      "name": "Golden Angel",
-      "description": "The Angel's Descent",
-      "condition": "See the golden angel in the Starfield Garden"
+      "name": "金色天使",
+      "description": "天使降临",
+      "condition": "邂逅 Starfield Garden 里的金色天使"
     },
     "carnivorous_pit_well": {
-      "name": "Well this isn't good...",
-      "condition": "Find the entrance to Carnivorous Pit in Decrepit Village"
+      "name": "大事不妙啊...",
+      "condition": "在 Decrepit Village 找到 Carnivorous Pit"
     },
     "duet_elvis": {
-      "name": "Elvis Approved!",
-      "description": "Elvis likes your style~",
-      "condition": "Trigger the Duet with Elvis Masada event in Elvis Masada's Place"
+      "name": "Elvis 的认可!",
+      "description": "Elvis 很喜欢你的风格~",
+      "condition": "在 Elvis Masada's Place 触发与 Elvis Masada 同台演奏事件"
     },
     "sibling_forever": {
-      "name": "Sibling Forever",
-      "description": "We will be together forever.",
-      "condition": "Enter room #3 of the Blue Restaurant"
+      "name": "永远的手足",
+      "description": "我们会永远在一起。",
+      "condition": "进入 Blue Restaurant 的3号房"
     },
     "ug_lake_singer": {
       "name": "A Friendly Conversation",
@@ -2227,13 +2227,13 @@
       "condition": "Reach the monochrome section of Wind Turbine Plateau"
     },
     "duckling_bathhouse": {
-      "name": "Quack-Quack!",
-      "condition": "Hold a duckling on your head in Bathhouse"
+      "name": "嘎嘎!",
+      "condition": "将 Bathhouse 的小鸭子顶在头上"
     },
     "terrarium_corridor": {
-      "name": "Terrarium",
+      "name": "玻璃花园",
       "description": "A momentary peace between ancient eras and a reversed reality.",
-      "condition": "Enter the terrarium corridor between The Ceiling and Heian Era Village"
+      "condition":  到访连接 Ceiling 与 Heian Era Village 的 terrarium corridor "
     },
     "shallows_of_deceit": {
       "name": "Kingdom of Crimson",
@@ -2843,7 +2843,7 @@
       "condition": "进入年轻通道和微生物世界"
     },
     "attack_smile": {
-      "name": "Why So Serious?",
+      "name": "Why so serious?",
       "description": "\"You're a sick girl, but I'll see you again.\"",
       "condition": "迫使Smile保护他的妹妹"
     },
@@ -2922,25 +2922,25 @@
       "condition": "拜访 the Plant and Illusionary Corridors 的花朵少女"
     },
     "music_cube_flow": {
-      "name": "Music Cubed",
-      "condition": "Get caught by the Kaibutsu in Footprint Path and activate the cube in the isolated area you are taken to"
+      "name": "音乐立方",
+      "condition": "被 Footprint Path 的 Kaibutsu 抓住，然后激活封闭区域的立方体"
     },
     "flower_world_flow": {
-      "name": "Blooming",
-      "condition": "Visit Flower World"
+      "name": "绽放",
+      "condition": "到访 Flower World"
     },
     "tabiki_san": {
-      "name": "Open Fire",
-      "description": "Aw man... that was keeping me warm...",
-      "condition": "Put out Tabiki-san's bonfire by using the Watering Can effect"
+      "name": "开火",
+      "description": "噢老天... 那是用来取暖的...",
+      "condition": "使用水壶效果扑灭 Tabiki-san 的篝火"
     },
     "flow_sabi_all_effects": {
-      "name": "Flawless",
-      "condition": "Trigger the Disguised Bug event"
+      "name": "无懈可击",
+      "condition": "触发伪 Bug 事件"
     },
     "razor_head": {
-      "name": "Razor Head",
-      "condition": "See the razor head creature in Disposal"
+      "name": "剃刀脑袋",
+      "condition": "遇见 Disposal 中有剃刀脑袋的生物"
     }
   },
   "prayers": {
@@ -3015,8 +3015,8 @@
     },
     "blip_arrow_lane": {
       "name": "Blip",
-      "description": "will you let me go to heaven",
-      "condition": "Find and interact with Blip in Arrow Lane"
+      "description": "你能带我去天堂吗",
+      "condition": "与 Arrow Lane 中的 Blip 交互"
     }
   },
   "deepdreams": {
@@ -3111,59 +3111,59 @@
       "condition": "获得 Crystal Cavern 的 System Crystalline 。若已获得，前往其原位置。"
     },
     "visiting_lady": {
-      "name": "Visiting Lady",
-      "condition": "Unlock the shortcut to Train Station through Lily Field"
+      "name": "小姐驾到",
+      "condition": "打通 Lily Field 前往 Train Station 的捷径"
     },
     "monochromatic_alter": {
-      "name": "Monomaiden",
-      "description": "Less important Monoko",
-      "condition": "Obtain the Monochromatic alter in Black Lace"
+      "name": "黑白女仆",
+      "description": "一般路过的monoko",
+      "condition": "获得黑色蕾丝效果。若已获得，前往其原位置。"
     },
     "manager_deep_dreams": {
-      "name": "Excuse me sir...?",
-      "description": "Don't mess with the jukebox.",
-      "condition": "See the Manager Event"
+      "name": "请原谅我...先生?",
+      "description": "请勿破坏这台点唱机",
+      "condition": "触发 Manager 事件"
     },
     "cave_rave": {
-      "name": "Cave Rave",
-      "description": "Woo!",
-      "condition": "View the Rave event in Stone Ruins."
+      "name": "狂欢洞穴",
+      "description": "芜!",
+      "condition": "在 Stone Ruins 观看 the rave 事件."
     },
     "black_lace": {
-      "name": "Black Lace",
-      "description": "Welcome back.",
-      "condition": "Enter Black Lace from the Nexus"
+      "name": "黑色蕾丝",
+      "description": "欢迎回来。",
+      "condition": "由 nexus 进入蕾丝世界"
     },
     "serene_flowers": {
-      "name": "Serene Flowers",
-      "condition": "Make your way to the balcony of the Dark Town"
+      "name": "静谧芙蕖",
+      "condition": "进入 Dark Town 的阳台"
     },
     "marina_bathhouse": {
       "name": "Marina",
-      "condition": "See Marina in the Bath House and pick up the money near the glasses"
+      "condition": "邂逅 Bath House 的 Marina 并捡起眼镜旁的钱"
     },
     "rafflesia_pin": {
-      "name": "Rafflesia Pin",
-      "condition": "Enter the last room in the Apartments"
+      "name": "霸王花",
+      "condition": "进入 Apartments 最深处的房间"
     },
     "anatomy_lessons": {
-      "name": "Anatomy Lessons",
-      "description": "It's probably a bad lesson, but it's free!",
-      "condition": "Use the Apparition alter near the girl in Abandoned Lab"
+      "name": "解剖学课",
+      "description": "这可能是一堂糟糕的课，但它是免费的！",
+      "condition": "对 Abandoned Lab 的女孩使用幽魂效果"
     },
     "tree_ashy_desert": {
-      "name": "Flourish and Bloom",
-      "description": "After the frigid winter has passed, spring is finally starting to awaken",
-      "condition": "Visit the room with the pink blossom tree in Ashy Desert"
+      "name": "繁花似锦",
+      "description": "冬雪消融，春晖普照",
+      "condition": "到访 Ashy Desert 中开花树的房间"
     },
     "subaquatic_creature": {
-      "name": "Otherworldly Subaquatic Creatures",
-      "description": "We will need to study these creatures!",
-      "condition": "In Alien Ocean, reach the spot with the big fish"
+      "name": "异世界的亚水生物",
+      "description": "我们需要研究这些生物!",
+      "condition": "与 Alien Ocean 里带斑点的大鱼交互"
     },
     "ufo_watching": {
-      "name": "Sky Watching",
-      "condition": "Go UFO-watching in the Apartments"
+      "name": "眺望夜空",
+      "condition": "观看 Apartments 的UFO事件"
     }
   },
   "someday": {
