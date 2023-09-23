@@ -302,11 +302,11 @@
     },
     "chop_chop": {
       "name": "公开处刑",
-      "condition": "拜访大型断头台世界"
+      "condition": "到访大型断头台世界"
     },
-    "witch_island_cat": {
-      "name": "Beneath the Surface",
-      "condition": "Use the Cat effect next to the three women in blue on Witch's Island"
+    "witch_island_cat": 
+      "name": "表象之下",
+      "condition": "对树海沼泽的三个女孩使用猫咪效果"
     },
     "severed_heads_event": {
       "name": "Heads Off to You!",
@@ -314,9 +314,9 @@
       "condition": "Activate the Severed Heads event"
     },
     "scared_masada": {
-      "name": "Moonwalk",
-      "description": "Please put the knife away",
-      "condition": "Make Seccom Masada-sensei walk away with the Kitchen Knife effect"
+      "name": "太空步",
+      "description": "请收起你的菜刀！",
+      "condition": "亮出菜刀让钢琴老师表演太空步"
     },
     "submarine_fish_yn": {
       "name": "Submerged",
@@ -327,8 +327,8 @@
       "condition": "See the red variant of Manhole-sama"
     },
     "onsen_stab": {
-      "name": "A Stab in the Dark",
-      "condition": "Stab Onsen-san"
+      "name": "暗杀",
+      "condition": "刺杀温泉桑"
     },
     "fc_moai": {
       "name": "Tomb of the Moai",
@@ -336,12 +336,12 @@
       "condition": "Enter the moai head room in the FC Dungeon"
     },
     "isee_path": {
-      "name": "Isee Stare",
-      "condition": "Get to Mural World via the Isee Path"
+      "name": "视线所见的视线",
+      "condition": "穿过Isee Path进入壁画世界"
     },
     "mall_shoppers": {
-      "name": "Shop 'til You Drop",
-      "condition": "Interact with all of the Mall Shopper NPCs"
+      "name": "剁手党",
+      "condition": "与商场里所有的npc交互"
     },
     "white_desert_lagoon": {
       "name": "Monochrome Walls",
@@ -359,8 +359,8 @@
       "condition": "Catch the Train Passenger A's attention with the Cat effect"
     },
     "docks_yume": {
-      "name": "Docks",
-      "condition": "Visit the two parts of the Docks"
+      "name": "湖回廊",
+      "condition": "到访湖回廊的AB两处"
     },
     "thunder_oni": {
       "name": "Rain, Rain, Go Away",
@@ -373,8 +373,8 @@
       "condition": "Interact with Nopperabou Ghost and Fleebie while using the Spirit Headband effect and stab Follony with the Kitchen Knife effect"
     },
     "wilderness_fan": {
-      "name": "Desert Explorer",
-      "condition": "Visit every area in the Wilderness"
+      "name": "野外求生专家",
+      "condition": "踏遍荒野的每一处区域"
     }
   },
   "2kki": {
@@ -403,24 +403,24 @@
       "condition": "在梦远征及无尽流浪中踏遍 95% 的地图"
     },
     "uro_trophy_bronze": {
-      "name": "Bronze Urotsuki Trophy",
-      "condition": "Visit 30% of locations (excluding secret locations)"
+      "name": "铜制Urotsuki奖杯",
+      "condition": "踏遍30%的地图(包含隐藏区域)"
     },
     "uro_trophy_silver": {
-      "name": "Silver Urotsuki Trophy",
-      "condition": "Visit 50% of locations (excluding secret locations)"
+      "name": "银制Urotsuki奖杯",
+      "condition": "踏遍50%的地图 (包含隐藏区域)"
     },
     "uro_trophy_gold": {
-      "name": "Gold Urotsuki Trophy",
-      "condition": "Visit 70% of locations (excluding secret locations)"
+      "name": "金Urotsuki奖杯",
+      "condition": "踏遍70%的地图 (包含隐藏区)
     },
     "uro_trophy_platinum": {
-      "name": "Platinum Urotsuki Trophy",
-      "condition": "Visit 90% of locations (excluding secret locations)"
+      "name": "铂金Urotsuki奖杯",
+      "condition": "踏遍90%的地图 (包含隐藏区域)"
     },
     "uro_trophy_diamond": {
-      "name": "Diamond Urotsuki Trophy",
-      "condition": "Visit 100% of locations (excluding secret locations)"
+      "name": "钻石Urotsuki奖杯",
+      "condition": "踏遍100%的地图(包含隐藏区域)"
     },
     "crushed": {
       "name": "钢印",
